@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=200&section=header&text=ANURAG%20&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Building%20Intelligence%20%7C%20One%20Commit%20at%20a%20Time&descColor=a0a0a0&descSize=18&animation=fadeIn&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:0f3460,100:16213e&amp;height=200&amp;section=header&amp;text=ANURAG&amp;fontSize=70&amp;fontColor=00d4ff&amp;fontAlignY=38&amp;desc=Building%20Intelligence%20%7C%20One%20Commit%20at%20a%20Time&amp;descColor=a0a0a0&amp;descSize=18&amp;animation=fadeIn&amp;fontAlign=50" width="100%" />
 
 <!-- VISITOR BADGE + PROFILE VIEWS -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anuraggaur29.anuraggaur29&left_color=1a1a2e&right_color=00d4ff&left_text=VISITORS" />
@@ -28,7 +28,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  anurag@universe:~$ whoami                                       │
 │                                                                  │
-│  > Name       : Anurag Gaur                                      │
+│  > Name       : Anurag                                           │
 │  > Role       : CS (AI/ML) @ Chandigarh University — Sem VI      │
 │  > Stack      : Python · Rust · C++ · JS · ML/DL · Full Stack   │
 │  > Research   : Generative AI Ethics (IEEE Conference Paper)     │
@@ -136,5 +136,5 @@
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d0d0d&height=120&section=footer&text=Open%20to%20collabs%20%26%20opportunities!&fontSize=16&fontColor=00d4ff&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:0f3460,100:0d0d0d&amp;height=120&amp;section=footer&amp;text=Open%20to%20collabs%20%26%20opportunities!&amp;fontSize=16&amp;fontColor=00d4ff&amp;fontAlignY=70" width="100%" />
 </div>
