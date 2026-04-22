@@ -138,3 +138,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:0f3460,100:0d0d0d&amp;height=120&amp;section=footer&amp;text=Open%20to%20collabs%20%26%20opportunities!&amp;fontSize=16&amp;fontColor=00d4ff&amp;fontAlignY=70" width="100%" />
 </div>
+  
