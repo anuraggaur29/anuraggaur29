@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=200&section=header&text=ANURAG%20GAUR&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Building%20Intelligence%20%7C%20One%20Commit%20at%20a%20Time&descColor=a0a0a0&descSize=18&animation=fadeIn&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=200&section=header&text=ANURAG%20&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Building%20Intelligence%20%7C%20One%20Commit%20at%20a%20Time&descColor=a0a0a0&descSize=18&animation=fadeIn&fontAlign=50" width="100%" />
 
 <!-- VISITOR BADGE + PROFILE VIEWS -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anuraggaur29.anuraggaur29&left_color=1a1a2e&right_color=00d4ff&left_text=VISITORS" />
