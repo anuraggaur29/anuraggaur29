@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:0f3460,100:16213e&amp;height=200&amp;section=header&amp;text=ANURAG&amp;fontSize=70&amp;fontColor=00d4ff&amp;fontAlignY=38&amp;desc=Building%20Intelligence%20%7C%20One%20Commit%20at%20a%20Time&amp;descColor=a0a0a0&amp;descSize=18&amp;animation=fadeIn&amp;fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=200&section=header&text=ANURAG&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=AI/ML%20%2B%20Full%20Stack%20Developer&descColor=a0a0a0&descSize=18&animation=fadeIn&fontAlign=50" width="100%" />
 
 <!-- VISITOR BADGE + PROFILE VIEWS -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anuraggaur29.anuraggaur29&left_color=1a1a2e&right_color=00d4ff&left_text=VISITORS" />
@@ -16,7 +16,7 @@
 
 <!-- TYPING SVG - IDENTITY -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%2F+ML+Engineer+in+the+Making+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;Researcher+%7C+Builder+%7C+Problem+Solver+%F0%9F%94%A5;Always+Shipping.+Never+Settling.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=60&lines=AI+%2F+ML+Engineer+in+the+Making+%F0%9F%A4%96;Building+ScolAR+%26+Talk2Strangers+%F0%9F%9A%80;Prepping+for+Product-Company+Roles+%F0%9F%8E%AF;Always+Shipping.+Never+Settling.+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,11 +29,11 @@
 │  anurag@universe:~$ whoami                                       │
 │                                                                  │
 │  > Name       : Anurag                                           │
-│  > Role       : CS (AI/ML) @ Chandigarh University — Sem VI      │
-│  > Stack      : Python · Rust · C++ · JS · ML/DL · Full Stack   │
-│  > Research   : Generative AI Ethics (IEEE Conference Paper)     │
-│  > Side Quest : RookHide — Steganography inside Chess PGN 🔐    │
-│  > Interests  : AI/ML · Stock Markets · F1 · Open Source        │
+│  > Focus      : AI/ML + Full Stack Development                  │
+│  > Stack      : Python · JavaScript · C++ · React · FastAPI      │
+│  > Building   : ScolAR — Exam Prep Platform with Virtual Desktop │
+│  > Building   : Talk2Strangers — P2P Video Chat (WebRTC)        │
+│  > Interests  : AI/ML · Stock Markets · Open Source              │
 │  > Status     : Placement Season 🎯 | Building in Public 🚀     │
 │                                                                  │
 │  anurag@universe:~$ echo "Let's build something insane."        │
@@ -57,11 +57,11 @@
 
 ## 🧠 What I'm Building
 
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| **RookHide** | Steganography engine that hides encrypted data inside Chess PGN files | `Rust` `PyO3` `AES-256` |
-| **IEEE Research** | "Hidden Challenges of GenAI: Bias, Accuracy & Ethics" | `LaTeX` `Research` `GenAI` |
-| **ML Portfolio** | End-to-end deployed ML projects across NLP, CV, and tabular data | `Python` `TensorFlow` `Sklearn` |
+| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|-----------|---------------|---------|--------|
+| **ScolAR** | Exam-prep platform with a Windows-style virtual desktop UI, multi-provider AI chat, and CUIMS data sync | `React 19` `FastAPI` `Supabase` | [Live](https://getscolar.vercel.app/) |
+| **Talk2Strangers** | Real-time P2P video chat platform with WebRTC, interest-based matching, and safety moderation | `Next.js` `WebRTC` `Supabase` | [Live](https://t2strangers.vercel.app/) |
+| **Lecture Capture AI** | FastAPI service that converts lecture recordings into structured, searchable notes | `Python` `FastAPI` `SQLite` | — |
 
 ---
 
@@ -75,24 +75,36 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI / ML**
+**Web Development**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**ML/AI Basics**
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Web & Tools**
+**Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -119,6 +131,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anuraggaur29&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" alt="trophies" />
 </div>
 
+- 🏅 Top 50 of 10,000+ teams — Graph-E-Thon 3.0 National Hackathon (2026)
+
+---
+
+## 📜 Certifications
+
+- IBM — Generative AI for Data Engineers
+- AWS Academy — Generative AI Foundations
+- Microsoft Azure AI Fundamentals (AI-900)
+- NVIDIA — Fundamentals of Deep Learning
+- GitHub Foundations (CI/CD & DevOps)
+
 ---
 
 ## 🔗 Find Me
@@ -127,8 +151,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragshakalya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuraggaur29/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MDUyBiSMBO/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuraggaur29)
+[![Website](https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://anuraggaur29.netlify.app)
 
 </div>
 
@@ -136,6 +160,5 @@
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:0f3460,100:0d0d0d&amp;height=120&amp;section=footer&amp;text=Open%20to%20collabs%20%26%20opportunities!&amp;fontSize=16&amp;fontColor=00d4ff&amp;fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d0d0d&height=120&section=footer&text=Open%20to%20collabs%20%26%20opportunities!&fontSize=16&fontColor=00d4ff&fontAlignY=70" width="100%" />
 </div>
-  
